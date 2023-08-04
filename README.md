@@ -8,6 +8,9 @@
 ## - 提供高质量3D形象模型，支持多维度形象捏脸DIY。海量的妆发服饰资源随心搭配从五官到肤色，细腻把握每一处细节
 
 
+[![](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/1010.png)](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/VirtualCamera/513136b7f3ef5d424fae06ff2a64679a.mp4)
+
+
 
 
 联系方式：
